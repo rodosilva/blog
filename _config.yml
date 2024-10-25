@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/u/74031472?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rodrigo.silva.alegria@gmail.com
   facebook:
   flickr:
   github: rodosilva/
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/27976239/rodrigo-silva
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://rodosilva.github.io/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!

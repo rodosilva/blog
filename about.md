@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Teach Lead Sys Admin | Linux | Cloud AWS Architect Associate
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ingeniero electrónico titulado, dedicado a la tecnología por más de 10 años, 5 en Linux y 2 como Devops. Responsable de roles como Teach Lead System Admin y administrador de servidores con certificaciones de AWS Architect, ITIL, entre otros. Formado con grandes valores y comunicación interpersonal que facilita un buen desempeño en el trabajo en equipo.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rodrigo.silva.alegria@gmail.com](mailto:rodrigo.silva.alegria@gmail.com)
